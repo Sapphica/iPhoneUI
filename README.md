@@ -32,8 +32,8 @@
 ## Purpose
 To create a UI that looks like **glass**, features **animated backgrounds**, and makes iOS more intuitive and productive through a fully custom interface.
 
-This system was built **14 years ago** — long before Apple introduced widgets, themes, dynamic wallpapers, lock-screen customization, or gesture-based navigation.  
-Everything here predates the modern iOS customization era.
+Originally built in **2012**, long before Apple introduced widgets, themes, dynamic wallpapers, lock-screen customization, or gesture-based navigation.  
+(The demo video above was uploaded the same year, verifying the project’s original timeline.)
 
 This project includes:
 
