@@ -23,7 +23,7 @@
 
 ---
 
-### ***A custom iPhone OS rebuild — icons, lock screen, gestures, UI sounds, and real-time overlay.***
+### ***A custom iPhone OS rebuild — icons, lock screen, gestures, UI sounds, and real-time overlays.***
 
 ---
 
